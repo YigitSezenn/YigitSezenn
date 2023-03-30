@@ -1,4 +1,5 @@
 <h1 color="blue"> Hi Dude!Welcomee!!!</h1>    
+![anime](https://user-images.githubusercontent.com/127087189/228769853-b3b10e73-b369-4b2f-b03c-1ceeda2cd723.gif)
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p aling="left">
@@ -7,7 +8,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"  height="45" width="45"/> 
 
  </p>  
- ![](https://user-images.githubusercontent.com/127087189/228768591-1ccae1f3-68e9-4f58-9476-97a19b0466fd.gif)
+
 
 
 
