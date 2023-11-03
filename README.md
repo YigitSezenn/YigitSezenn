@@ -7,6 +7,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"height="45" width="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"height="45" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"  height="45" width="45"/> 
+ <img src="URL_OF_YOUR_JS_ICON" height="45" width="45" />
+
  </p>  
 
 
