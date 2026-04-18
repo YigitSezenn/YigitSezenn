@@ -1,167 +1,239 @@
-# 👋 Merhaba, ben QA Engineer & Mobile Developer
+# 👋 Merhaba, ben Süleyman Yiğit Sezen
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&width=600&lines=Quality+Assurance+Expert;React+Native+Developer;Kotlin+Enthusiast;Testing+%26+Automation" alt="Typing SVG" />
+
+**QA Mühendisi & Junior Mobil Geliştirici**  
+3 Yıllık QA Deneyimi | Kotlin & React Native Meraklısı
+
+![Profile views](https://komarev.com/ghpvc/?username=YigitSezenn&style=flat-square&color=blue)
+
 </div>
 
 ---
 
 ## 🎯 Hakkımda
 
-Kaliteli yazılım geliştirmeye tutkulu bir **QA Engineer** ve gelişen **Mobil Uygulama Geliştirici**yim. React Native ve Kotlin kullanarak android uygulamaları geliştiriyor, aynı zamanda kapsamlı test senaryoları tasarlayıp otomasyonları geliştiriyorum.
+3 yıllık QA mühendislik deneyiminden gelen **kalite odaklı** yaklaşımla mobil geliştirme dünyasına adım attım. Test otomasyonu ve kalite güvence konusunda kazandığım deneyimi, mobil uygulamaların geliştirilmesinde kullanıyorum.
 
+- 👨‍💻 Şu anda **Junior Mobile Developer** olarak çalışıyorum
+- 🧪 **3 yıllık QA Mühendisliği** deneyimim var
+- 🎓 Continuous Learning meraklısıyım
+- 🌍 Antalya, Türkiye'de yaşıyorum
+
+---
+
+## 💪 Core Competencies
+
+### 🧪 Test Otomasyonu & QA (Expert)
+Kısım Test Automation Framework'lerini ve best practices'i derinlemesine biliyorum.
+
+- **Selenium** - Web uygulamaları için kapsamlı test otomasyon
+- **Playwright** - Modern, hızlı ve güvenilir browser automation
+- Manuel Test & Test Planlama
+- Test Case Design & Test Execution
+- Cross-browser Testing Strategisi
+
+### 📱 Mobil Geliştirme (Junior)
+Mobil geliştirmede kendimi geliştirmeye devam ediyorum.
+
+- **Kotlin** - Android native development
+- **React Native** - Cross-platform mobile applications
+- UI/UX Farkındalığı
+- Responsive Design Prensipleri
+
+### 🖥️ Backend & Diğer Teknolojiler
+
+- **C#** - Backend development, scripting
+- **Git & GitHub** - Version control & collaboration
+- **Agile/Scrum** - Proje yönetimi ve ekip çalışması
+- **API Testing** - REST API test automation
+- **CI/CD Pipelines** - Automation & DevOps
+
+---
+
+## 🚀 Teknoloji Stack'i
+
+### Programlama Dilleri
 ```
-┌─────────────────────────────────────────┐
-│  🔍 Detaylı test örnekleri hazırlarım   │
-│  📱 Mobil uygulama geliştiriyorum       │
-│  🤖 Test otomasyonunu seviyorum        │
-│  ✅ Kod kalitesini önemsiyorum          │
-└─────────────────────────────────────────┘
+🔹 Kotlin       ⭐⭐⭐⭐ (Learning)
+🔹 JavaScript   ⭐⭐⭐⭐ (React Native ile)
+🔹 C#           ⭐⭐⭐⭐
+🔹 Java         ⭐⭐⭐ (Test Automation)
+🔹 Python       ⭐⭐⭐ (Test Scripting)
 ```
 
----
-
-## 🛠️ Teknoloji Stack
-
-<table>
-<tr>
-<td><strong>QA & Testing</strong></td>
-<td><strong>Mobil Geliştirme</strong></td>
-<td><strong>Diğer</strong></td>
-</tr>
-<tr>
-<td>
-
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-</td>
-<td>
-
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-
-</td>
-<td>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub İstatistikleri
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&theme=dark&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF&layout=compact" />
-</div>
-
----
-
-## 🚀 Neler Yapıyorum
-
-### 💡 Şu an üzerinde çalıştığım şeyler:
-- ✨ React Native ile cross-platform mobil uygulamalar
-- 🧪 Komprehansif test senaryoları ve test otomasyonu
-- 📲 Kotlin ile native Android geliştirme
-- 🔄 CI/CD pipeline ve otomasyon
-
-### 📚 Öğrenmeye çalıştığım şeyler:
-- 🎨 Advanced UI/UX İmplementasyonları
-- 🏗️ Clean Architecture Patterns
-- 🔐 Security Best Practices
-- ☁️ Cloud Testing Solutions
-
----
-
-## 💼 Deneyimim
-
-| Alan | Yıl | Detaylar |
-|------|-----|---------|
-| **QA Engineering** | 1+ | Manuel & otomasyon testleri |
-| **Mobil Dev** | 0.5+ | React Native & Kotlin |
-| **Test Otomasyonu** | 1+ | Jest, Cypress, Selenium |
-| **API Testing** | 1+ | RESTful API test otomasyonu |
-
----
-
-## 🎓 Yetkinliklerim
-
+### Testing Frameworks & Tools
 ```
-Test Planning & Strategy      ████████░░ 80%
-Manual Testing                ████████░░ 85%
-Test Automation               ███████░░░ 75%
-React Native                  ███████░░░ 70%
-Kotlin                        ██████░░░░ 65%
-Bug Reporting & Analysis      ████████░░ 85%
+🔹 Selenium WebDriver
+🔹 Playwright
+🔹 JUnit / TestNG
+🔹 REST Assured
+🔹 Postman / Insomnia
+```
+
+### Development & DevOps
+```
+🔹 Android Studio
+🔹 VS Code
+🔹 Git / GitHub
+🔹 Docker (Temel)
+🔹 Jenkins (Temel)
 ```
 
 ---
 
-## 📂 Popüler Projelerim
-
-<div>
-<a href="">
-  <img align="center" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME&theme=dark&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="">
-  <img align="center" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPO_NAME&theme=dark&hide_border=true&bg_color=0D1117" />
-</a>
-</div>
-
----
-
-## 🌐 Beni Takip Edin
+## 📊 GitHub Aktivitesi
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_PROFILE)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://YOUR_PORTFOLIO.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YigitSezenn&show_icons=true&theme=radical)
 
 </div>
 
 ---
 
-## 📝 Son Blog Yazılarım
+## 🎨 Projelerim
 
-<!-- BLOG-POST-LIST:START -->
-- 🧪 [React Native'de Test Yazımı](https://YOUR_BLOG)
-- 🚀 [Kotlin ile Mobile Geliştirme Başlangıcı](https://YOUR_BLOG)
-- ✅ [QA için Best Practices](https://YOUR_BLOG)
-<!-- BLOG-POST-LIST:END -->
+### 🧪 Test Otomasyon Projeleri
+
+- **Web Test Automation Suite** - Selenium & Java ile e-commerce uygulamalarının test otomasyonu
+- **API Automation Framework** - REST API'lerin comprehensive testing
+- **Cross-Browser Testing** - Playwright ile modern web uygulamalarının testleri
+- **Cucumber BDD Tests** - Behavior-driven development approach ile test scenarios
+
+### 📱 Mobil Geliştirme Projeleri
+
+- **Android Apps with Kotlin** - Native Android uygulamaları
+- **React Native Applications** - Cross-platform mobil çözümleri
+- **Test Automation for Mobile** - QA expertise'ini mobil uygulamalara uyarlama
+
+### 💼 Diğer Projeler
+
+- **C# Console Applications**
+- **Backend Integration Projects**
+
+> 📌 Tüm projelerim bu GitHub profilimde mevcuttir. Detaylı bilgi için aşağıdaki bağlantılara bakınız.
 
 ---
 
-## 🎯 2024 Hedeflerim
+## 🏆 Kariyer Yolculuğum
 
-- [ ] React Native ile 2 projesi tamamlamak
-- [ ] Kotlin'de daha ileri seviye özellikleri öğrenmek
-- [ ] Test otomasyonu coverage'ını %90'a çıkarmak
-- [ ] QA topluluğuna katkıda bulunmak
-- [ ] Teknik blog yazılarına başlamak
+```
+2021-2024  │  🧪 QA Mühendisi  │  3 Yıl Deneyim
+2024-▶️    │  📱 Junior Mobile Developer  │  Gelişim Yolunda
+```
+
+### Başarılar & Öğrenimler
+- ✅ 100+ Web test case'leri başarıyla otomatize edildi
+- ✅ Selenium & Playwright master seviyesinde öğrenildi
+- ✅ Kotlin ile ilk Android uygulamaları geliştiriliyor
+- ✅ React Native ile cross-platform projeler
+- ✅ CI/CD pipeline entegrasyonu başarıyla tamamlandı
 
 ---
+
+## 🎯 Profesyonel Hedefler
+
+1. **🚀 Mobil Geliştirmede Uzman Olmak** - Kotlin ve React Native konularında Senior level'e ulaşmak
+2. **🧪 Test Automation Mimarisini Kurma** - Test frameworks ve best practices oluşturmak
+3. **🌐 Full-Stack Developer Olmak** - Backend ve frontend skills'i birleştirmek
+4. **🤝 Açık Kaynak Katkı** - Open source projelerine aktif katılım
+5. **📚 Bilgi Paylaşımı** - Blog yazıları ve tutorials yayınlamak
+
+---
+
+## 📚 Sürekli Öğrenme
+
+```
+📖 Şu anda Öğreniyorum:
+├── Advanced Kotlin Features
+├── React Native Performance Optimization
+├── Mobile App Architecture Patterns
+├── Test-Driven Development (TDD)
+└── Mobile Security Best Practices
+
+🎓 Gelecekte Öğrenmeyi Planladığım:
+├── Flutter
+├── Advanced React Native
+├── Mobile Backend (Node.js)
+└── Cloud Services (Firebase, AWS)
+```
+
+---
+
+## 🌟 Öne Çıkan Özellikleri
+
+| Yetenek | Açıklama |
+|---------|----------|
+| **Problem Solving** | Analitik düşünce ve detaylı problem çözme yeteneği |
+| **Attention to Detail** | QA geçmişinden gelen yüksek kalite standartları |
+| **Continuous Learning** | Her gün yeni şeyler öğrenmeye hevesli |
+| **Team Player** | Ekip çalışmasına inanan, komunikatif ve açık |
+| **Documentation** | Clean code ve iyi documentation alışkanlıkları |
+| **Testing Mindset** | Her kodda kalite ve test coverage'ı ön planda tutuş |
+
+---
+
+## 💬 Benim Hakkımda Bilinmesi Gereken
+
+> **"Kodun sadece çalışması değil, doğru ve güvenli şekilde çalışması önemli."**
+
+QA mühendisliği geçmişim bana:
+- 🔍 Detaylı analiz becerisi
+- 🛡️ Kalite güvence konsiyansı
+- 📝 Metodolojik yaklaşım
+- 🎯 Problem belirleme ve çözme yeteneği
+
+...kazandırdı ve tüm geliştirme projelerimde bu değerleri uyguluyorum.
+
+---
+
+## 📞 İletişim & Sosyal Ağlar
 
 <div align="center">
-  
-### ⚡ Eğer projelerimdeki bir şeyi beğendiyseniz, bir ⭐ yıldız bırakabilirsiniz!
 
-**Son güncelleme:** 2024
+| Platform | Bağlantı |
+|----------|----------|
+| 📧 Email | [ysezenn@outlook.com](mailto:ysezenn@outlook.com) |
+| 💼 LinkedIn | [linkedin.com/in/suleymanyigit](https://www.linkedin.com/in/suleymanyigit) |
+| 🐙 GitHub | [@YigitSezenn](https://github.com/YigitSezenn) |
+| 📍 Lokasyon | Antalya, Türkiye 🇹🇷 |
+
+**Beni takip edin ve birlikte öğrenelim!** 🚀
+
+</div>
+
+---
+
+## ⭐ Beni Destekleyin
+
+GitHub'da projelerim beğendiyseniz ⭐ yıldız vermeyi unutmayın!
+
+```
+Eğer faydalı şeyler bulduysanız → Star ⭐
+Fikirleriniz varsa → Issue açın 🐛
+Kontribüsyon yapmak istiyorsanız → Pull Request ✨
+```
+
+---
+
+## 📈 İstatistikler
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YigitSezenn&layout=compact&theme=radical)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=58A6FF&style=flat-square" alt="Profile Views" />
+
+### "Gelişimi durdurmayan, öğrenmeyi bırakan insan yoktur" 
+*- Anonim*
+
+**Kodlama keyfi versin! Happy Coding! 💻**
+
+*Son güncelleme: Nisan 2026*
+
 </div>
