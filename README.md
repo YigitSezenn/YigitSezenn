@@ -1,86 +1,11 @@
-# 👋 Merhaba, ben Süleyman Yiğit Sezen
+Süleyman Yiğit Sezen
 
 <div align="center">
 
 **QA Mühendisi & Junior Mobil Geliştirici**  
 3 Yıllık QA Deneyimi | Kotlin & React Native Meraklısı
 
-![Profile views](https://komarev.com/ghpvc/?username=YigitSezenn&style=flat-square&color=blue)
 
-</div>
-
----
-
-## 🎯 Hakkımda
-
-3 yıllık QA mühendislik deneyiminden gelen **kalite odaklı** yaklaşımla mobil geliştirme dünyasına adım attım. Test otomasyonu ve kalite güvence konusunda kazandığım deneyimi, mobil uygulamaların geliştirilmesinde kullanıyorum.
-
-- 👨‍💻 Şu anda **Junior Mobile Developer** olarak çalışıyorum
-- 🧪 **3 yıllık QA Mühendisliği** deneyimim var
-- 🎓 Continuous Learning meraklısıyım
-- 🌍 Antalya, Türkiye'de yaşıyorum
-
----
-
-## 💪 Core Competencies
-
-### 🧪 Test Otomasyonu & QA (Expert)
-Kısım Test Automation Framework'lerini ve best practices'i derinlemesine biliyorum.
-
-- **Selenium** - Web uygulamaları için kapsamlı test otomasyon
-- **Playwright** - Modern, hızlı ve güvenilir browser automation
-- Manuel Test & Test Planlama
-- Test Case Design & Test Execution
-- Cross-browser Testing Strategisi
-
-### 📱 Mobil Geliştirme (Junior)
-Mobil geliştirmede kendimi geliştirmeye devam ediyorum.
-
-- **Kotlin** - Android native development
-- **React Native** - Cross-platform mobile applications
-- UI/UX Farkındalığı
-- Responsive Design Prensipleri
-
-### 🖥️ Backend & Diğer Teknolojiler
-
-- **C#** - Backend development, scripting
-- **Git & GitHub** - Version control & collaboration
-- **Agile/Scrum** - Proje yönetimi ve ekip çalışması
-- **API Testing** - REST API test automation
-- **CI/CD Pipelines** - Automation & DevOps
-
----
-
-## 🚀 Teknoloji Stack'i
-
-### Programlama Dilleri
-```
-🔹 Kotlin       ⭐⭐⭐⭐ (Learning)
-🔹 JavaScript   ⭐⭐⭐⭐ (React Native ile)
-🔹 C#           ⭐⭐⭐⭐
-🔹 Java         ⭐⭐⭐ (Test Automation)
-🔹 Python       ⭐⭐⭐ (Test Scripting)
-```
-
-### Testing Frameworks & Tools
-```
-🔹 Selenium WebDriver
-🔹 Playwright
-🔹 JUnit / TestNG
-🔹 REST Assured
-🔹 Postman / Insomnia
-```
-
-### Development & DevOps
-```
-🔹 Android Studio
-🔹 VS Code
-🔹 Git / GitHub
-🔹 Docker (Temel)
-🔹 Jenkins (Temel)
-```
-
----
 
 ## 📊 GitHub Aktivitesi
 
